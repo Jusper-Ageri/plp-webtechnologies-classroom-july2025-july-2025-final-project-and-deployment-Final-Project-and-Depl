@@ -9,25 +9,24 @@ It showcases their **Graphic Design, Branding, and Marketing & Communication** s
 - Contact form with JavaScript validation
 - Clean and modern styling
 - Easy to deploy on GitHub Pages, Netlify, or Vercel
-
-## Project Structure
+## Pproject Structure
 netstar-website/
-│── index.html        (Home page)
-│── about.html        (About page)
-│── contact.html      (Contact page)
-│── style.css         (Main stylesheet)
-│── script.js         (Form validation + interactivity)
-│── images/
-│    └── logo.png
-│── README.md         (Documentation)
+│── index.html # Home page
+│── about.html # About page
+│── contact.html # Contact page
+│── style.css # Main stylesheet (responsive design)
+│── script.js # JavaScript (form validation + slider interactivity)
+│── images/ # Project images
+│ └── logo.png # Company logo
+│── README.md # Project documentation
 
-Tech Stack
-
-## HTML5 – Semantic structure.
+## Tech Stack
+- HTML5 – Semantic structure.
 
 - CSS3 – Modern styling and responsiveness.
 
 - JavaScript  – Interactivity (sliders, form validation).
 
 - Deployment Platforms – GitHub Pages / Netlify / Vercel.
+
 
