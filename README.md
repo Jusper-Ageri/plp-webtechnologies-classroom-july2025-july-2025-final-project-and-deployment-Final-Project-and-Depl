@@ -8,7 +8,6 @@ It showcases their **Graphic Design, Branding, and Marketing & Communication** s
 - Image slider on Home page
 - Contact form with JavaScript validation
 - Clean and modern styling
-- Easy to deploy on GitHub Pages, Netlify, or Vercel
 
 ## Project Structure
 netstar-website/
@@ -33,5 +32,6 @@ Tech Stack
 
 ## Project Link
 https://jusper-ageri.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/
+
 
 
