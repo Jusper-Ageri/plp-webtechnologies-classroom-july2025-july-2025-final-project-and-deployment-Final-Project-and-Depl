@@ -31,3 +31,7 @@ Tech Stack
 
 - Deployment Platforms – GitHub Pages / Netlify / Vercel.
 
+## Project Link
+https://jusper-ageri.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/
+
+
